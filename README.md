@@ -3,6 +3,7 @@
 
 https://www.youtube.com/watch?v=yV-yrNIlwiY&t=1s<VIDEO ID>
 
+  https://img.youtube.com/vi/<[insert-youtube-video-id-here](https://www.youtube.com/watch?v=yV-yrNIlwiY&t=1s)>/default.jpg
 
 ### Architecture
 - Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
