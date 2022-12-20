@@ -1,7 +1,7 @@
 # Full-Stack-Web-Dev-CS-456
 ## Full Stack Web Dev MEAN Stack App
 
-[![Watch the video]](https://www.youtube.com/watch?v=yV-yrNIlwiY&t=1s)
+https://www.youtube.com/watch?v=yV-yrNIlwiY&t=1s<VIDEO ID>
 
 
 ### Architecture
