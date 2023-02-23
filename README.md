@@ -1,9 +1,9 @@
 # Full-Stack-Web-Dev-CS-456
 ## Full Stack Web Dev MEAN Stack App
 
+Here is a link to my presentation of the project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yV-yrNIlwiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+https://youtu.be/yV-yrNIlwiY
 
 
 ### Architecture
